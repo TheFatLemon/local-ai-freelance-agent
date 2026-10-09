@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+*.pyc
+matched_jobs.md
+seen_ids.txt
